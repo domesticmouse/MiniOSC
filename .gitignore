@@ -19,3 +19,6 @@ _autosave-*
 *.ses
 
 hardware/kicad/MiniOSC/MiniOSC-backups
+
+# MacOS
+.DS_Store
