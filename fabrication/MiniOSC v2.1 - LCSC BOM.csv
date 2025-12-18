@@ -14,11 +14,11 @@ null,References,Value,Footprint,URL,LCSC Part #,Sourced,Ordered Qty,Manufacturer
 13,"D1, D2, D3, D4",1N4148W,D_SOD-123,https://mou.sr/3XEhTbD,C2992475,WM2512120107,20,Panjit," 1N4148W_R2_00001",4
 14,"U2, U3",TL074,SOIC-14_3.9x8.7mm_P1.27mm,https://mou.sr/3z6QVAe,C79668,WM2512120107,5+20,STMicroelectronics,TL074ACDT,2
 15,U1,40106,SOIC-14_3.9x8.7mm_P1.27mm,https://mou.sr/47m5xIo,C38184,WM2512120114,50,Texas Instruments,CD40106BM96G4,1
-16,SW1,SW_DPDT_x2,Button_KFC7x7,https://www.taydaelectronics.com/push-button-switch-dc-30v-0-1a-dpdt-7x7mm.html,,1000464539,10,DAIER," PB-22E27-ROHS",1
+16,SW1,SW_DPDT_x2,Button_KFC7x7,https://www.taydaelectronics.com/push-button-switch-dc-30v-0-1a-dpdt-7x7mm.html,Tahdah A-5053,1000464539,10,DAIER," PB-22E27-ROHS",1
 17,"TH1, TH2, TH3, TH4",10K NTC,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://mou.sr/4el3hDO,C554013,WM2512120116,10+10,Vishay / BC Components,NTCS0603E3103JLT,4
-18,"PULSE_WIDTH1, TUNING_COARSE1",B100k,Potentiometer_RV09,https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-round-shaft-pcb-9mm-6-35-mm.html,,,,Tayda Electronics,RV9312NO-OS15A00-B100K-060,2
-19,"PWM_AMT1, TUNING_FINE1",B100k,Potentiometer_RV09,https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html,,1000464539,20,ALPHA,RV09AF-40-20K-B100K,2
-20,FM_AMT1,B1M,Potentiometer_RV09,https://www.taydaelectronics.com/1m-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html,,1000464539,20,ALPHA,RV09AF-40-20K-B1M,1
+18,"PULSE_WIDTH1, TUNING_COARSE1",B100k,Potentiometer_RV09,https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-round-shaft-pcb-9mm-6-35-mm.html,Taydah A-1851,,,Tayda Electronics,RV9312NO-OS15A00-B100K-060,2
+19,"PWM_AMT1, TUNING_FINE1",B100k,Potentiometer_RV09,https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html,Taydah A-1851,1000464539,20,ALPHA,RV09AF-40-20K-B100K,2
+20,FM_AMT1,B1M,Potentiometer_RV09,https://www.taydaelectronics.com/1m-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html,Taydah A-1864,1000464539,20,ALPHA,RV09AF-40-20K-B1M,1
 21,Q3,BC848,SOT-23,https://mou.sr/3B2EAO3,C890249,WM2512120107,10,onsemi,BC848ALT1G,1
 22,Q4,BC858,SOT-23,https://mou.sr/3ZkYkq0,C896683,WM2512120107,10,onsemi,BC858CLT3G,1
 23,SCALE1,B1k,Potentiometer_Bourns_3296W_Vertical,https://www.taydaelectronics.com/1k-ohm-trimmer-potentiometer-cermet-25-turns-3296w.html,C57089,WM2512120107,1+10,ALPHA,3296W-1-102LF,1
